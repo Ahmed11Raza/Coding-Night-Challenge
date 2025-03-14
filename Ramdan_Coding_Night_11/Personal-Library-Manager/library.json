@@ -1,0 +1,28 @@
+[
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "isbn": "9780451524935",
+    "genre": "Dystopian",
+    "publication_year": 1949,
+    "publisher": "Signet Classics",
+    "pages": 328,
+    "status": "Reading",
+    "date_added": "2025-03-14",
+    "rating": 4.5,
+    "notes": "Orwell's masterpiece about totalitarianism and surveillance."
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "isbn": "9780743273565",
+    "genre": "Fiction",
+    "publication_year": 1925,
+    "publisher": "Scribner",
+    "pages": 180,
+    "status": "Unread",
+    "date_added": "2025-03-14",
+    "rating": null,
+    "notes": "A classic exploration of the American Dream in the Jazz Age."
+  }
+]
